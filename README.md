@@ -1,3 +1,5 @@
-# pacman
-simple pacman game that has offline multiplayer!
-control pacman with directional buttons and ms. pacman with wasd.
+<h1> Welcome to my Pacman Game</h1>
+<h3>This simple pacman game was made with HTML, CSS, & JavaScript</h3>
+
+<p>Control Pacman with directional buttons and Ms.Pacman with WASD</p>
+<p>Enjoy!</p>
